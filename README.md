@@ -1,1 +1,1 @@
-# javacourse
+# JavaProject comingsoon
